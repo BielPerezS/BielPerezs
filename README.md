@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Biel Pérez 👋
 
-<!--
-**BielPerezS/BielPerezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UPC FIB, passionate about building efficient software and exploring algorithms, AI, and cryptography. Currently based in Barcelona, always eager to learn and take on new challenges.
 
-Here are some ideas to get you started:
+## 💻 Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- C
+- Java
+- Python
+- SQL
+- Haskell
+- R
+- Matlab
+- GLSL
+
+---
+
+Feel free to connect: [LinkedIn](https://linkedin.com/in/bielperezsilvestre) | [Email](mailto:bielperezs@gmail.com)
