@@ -1,6 +1,7 @@
 # Hi, I'm Biel Pérez 👋
 
-I'm a Computer Science student at UPC FIB, passionate about building efficient software and exploring algorithms, AI, Machine Learning and Data Science. Currently based in Barcelona, always eager to learn and take on new challenges.<br>
+I'm a Computer Science student at UPC FIB, passionate about building efficient software and exploring algorithms, AI, Machine Learning and Data Science. Currently based in Barcelona, always eager to learn and take on new challenges.<br><br>
+
 ❗Looking for a __Summer Internship__
 
 ## 💻 Programming Languages
