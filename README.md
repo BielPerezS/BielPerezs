@@ -19,4 +19,4 @@ I'm a Computer Science student at UPC FIB, passionate about building efficient s
 
 ---
 
-Feel free to connect: [LinkedIn](https://linkedin.com/in/bielperezsilvestre) | [Email](mailto:bielperezs@gmail.com)
+Feel free to connect: [LinkedIn](https://linkedin.com/in/bielperezsilvestre) | [Gmail](mailto:bielperezs@gmail.com)
