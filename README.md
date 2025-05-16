@@ -2,7 +2,6 @@
 
 I'm a Computer Science student at UPC FIB, passionate about building efficient software and exploring algorithms, AI, Machine Learning and Data Science. Currently based in Barcelona, always eager to learn and take on new challenges.<br><br>
 
-![Cool GIF](https://i.pinimg.com/originals/66/1b/49/661b4981ef6ff87135d2082493113664.gif)
 
 ❗Looking for a __Summer Internship__
 
@@ -24,3 +23,5 @@ I'm a Computer Science student at UPC FIB, passionate about building efficient s
 ---
 
 Feel free to connect: [LinkedIn](https://linkedin.com/in/bielperezsilvestre) | [Gmail](mailto:bielperezs@gmail.com) (bielperezs@gmail.com)
+
+![Cool GIF](https://i.pinimg.com/originals/66/1b/49/661b4981ef6ff87135d2082493113664.gif)
