@@ -24,4 +24,5 @@ I'm a Computer Science student at UPC FIB, passionate about building efficient s
 
 Feel free to connect: [LinkedIn](https://linkedin.com/in/bielperezsilvestre) | [Gmail](mailto:bielperezs@gmail.com) (bielperezs@gmail.com)
 
-![Cool GIF]([https://i.pinimg.com/originals/66/1b/49/661b4981ef6ff87135d2082493113664.gif](https://tenor.com/es/search/jar-jar-binks-gif-gifs))
+![Cool GIF](https://media.tenor.com/5z1r98grT8gAAAAM/star-wars-jar-jar-binks.gif)
+
