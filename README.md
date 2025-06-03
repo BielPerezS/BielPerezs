@@ -28,7 +28,7 @@ I'm a Computer Science student at UPC FIB, passionate about building efficient s
   Feel free to connect: [LinkedIn](https://linkedin.com/in/bielperezsilvestre) | [Gmail](mailto:bielperezs@gmail.com) (bielperezs@gmail.com)
   
    <!-- <img src="[https://media.tenor.com/5z1r98grT8gAAAAM/star-wars-jar-jar-binks.gif](https://i.gifer.com/EJ1M.gif)" alt="Cool GIF" width="200" /> -->
-   <img src="https://i.gifer.com/RQt6.mp4" alt="Cool GIF" width="200" />
+   <img src="https://i.pinimg.com/originals/c4/37/12/c43712af49b76ffbf268dd254800624d.gif" alt="Cool GIF" width="200" />
 
 </div>
 
